@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://netvionnew.github.io/360-recruit/sitemap.xml
